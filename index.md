@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Melviin Khoo <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="50" height="50" />
 
-You can use the [editor on GitHub](https://github.com/melviinkhoo/melviinkhoo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Hi 👋, my name is Boo Siew Khoo also known as Melviin Khoo.
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+:briefcase: I'm currently working as **Technical Marketing Engineer** supporting Marketing team and Product team worldwide in RF measurement field.
+<br><br>
 
-### Markdown
+:bulb: Founded [Creative Now Enterprise](https://about.cre8tivenow.com) together with friends to help local and international NGOs and SMEs to transform and automate their work digitally with Google Workspace with our free time. We have also attain [Google Partner status](https://cre8tive.page.link/google) in year 2022.
+<br><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:notebook_with_decorative_cover: Self-learn **Javascript & HTML**, specifically with Google App Script.
+<br><br>
 
-```markdown
-Syntax highlighted code block
+:books: Attended Data Science Certification Program by USM & Data Scienctist course (Basic & Intermediate level) by PSDC.
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<h3>:four_leaf_clover: Projects that I'm currently working on:</h3>
 
-1. Numbered
-2. List
+- [Cre8tive Now] Google Workspace Courses for local
 
-**Bold** and _Italic_ and `Code` text
+- [Cre8tive Now] Online e-Album
 
-[Link](url) and ![Image](src)
-```
+- Digital transformation for Penang Cultural Inheritors Society, Penang Hokkien Association Youth Section & PGCNY Celebration 2023
+<br><br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h3>:writing_hand: I'm currently learning:</h3>
 
-### Jekyll Themes
+- Javascript, CSS, HTML for Web Development
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melviinkhoo/melviinkhoo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Data Science & practise with Kaggle
 
-### Support or Contact
+:computer: Looking forward to change my field into Data Scientist in the future!
+<br><br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<H2>:handshake: Connect with Me</H2>
+
+<a href="https://bio.link/melviinkhoo"><img align="left" src="https://raw.githubusercontent.com/melviinkhoo/melviinkhoo/main/images/WWW.svg" alt="icon | WWW" width="25px"/>bio.link/melviinkhoo</a><br>
+
+<a href="https://bio.link/melviinkhoo"><img align="left" src="https://raw.githubusercontent.com/melviinkhoo/melviinkhoo/main/images/LinkedIN.svg" alt="icon | LinkedIn" width="25px"/>Boo Siew Khoo</a><br>
+
+<a href="https://facebook.com/khooboosiew"><img align="left" src="https://raw.githubusercontent.com/melviinkhoo/melviinkhoo/main/images/Facebook.svg" alt="icon | Facebook" width="25px"/>facebook.com/khooboosiew</a><br>
+
+<a href="https://instagram.com/melviinkhoo"><img align="left" src="https://raw.githubusercontent.com/melviinkhoo/melviinkhoo/main/images/Instagram.svg" alt="icon | Instagram" width="25px"/>@melviinkhoo</a><br>
+
+<a href="https://twitter.com/melviinkhoo"><img align="left" src="https://raw.githubusercontent.com/melviinkhoo/melviinkhoo/main/images/Twitter.svg" alt="icon | Twitter" width="25px"/>@MelviinKhoo</a><br>
+
+<a href="https://cre8tive.page.link/youtube"><img align="left" src="https://raw.githubusercontent.com/melviinkhoo/melviinkhoo/main/images/Youtube.svg" alt="icon | Twitter" width="25px"/>Cre8tive Now</a><br>
