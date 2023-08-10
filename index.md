@@ -7,11 +7,11 @@
 
 &nbsp;
 
-:briefcase: I'm currently working as **Technical Marketing Engineer** supporting Marketing team and Product team worldwide in RF measurement field.    
+:briefcase: I'm currently working as **R&D Software QA Engineer** supporting R&D (previously in Technical Marketing Engineer supporting the Marketing team and Product team worldwide) in the RF measurement field.    
 
 &nbsp;
 
-:bulb: Founded [Creative Now Enterprise](https://about.cre8tivenow.com) together with friends to help local and international NGOs and SMEs to transform and automate their work digitally with Google Workspace with our free time. We have also attain [Google Partner status](https://cre8tive.page.link/google) in year 2022.
+:bulb: Founded [Creative Now Enterprise](https://about.cre8tivenow.com) together with friends to help local and international NGOs and SMEs to transform and automate their work digitally with Google Workspace in our free time. We have also attained [Google Partner status](https://cre8tive.page.link/google) in the year 2022.
 
 &nbsp;
 
@@ -19,15 +19,13 @@
 
 &nbsp;
 
-:books: Attended Data Science Certification Program by USM & Data Scienctist course (Basic & Intermediate level) by PSDC.
+:books: Attended Data Science Certification Program by USM & Data Scientist course (Basic & Intermediate level) by PSDC.
 
 &nbsp;
 
 ## :four_leaf_clover: Projects that I'm currently working on:
 
-- [Cre8tive Now] Google Workspace Courses for local
-
-- [Cre8tive Now] Online e-Album
+- [Cre8tive Now] Customized automation for SMEs
 
 - Digital transformation for Penang Cultural Inheritors Society, Penang Hokkien Association Youth Section & PGCNY Celebration 2023
 
@@ -35,10 +33,12 @@
 
 ## :writing_hand: I'm currently learning:
 - Javascript, CSS, HTML for Web Development
+  
+- Python for Automation & Data Science
 
-- Data Science & practise with Kaggle
+- Data Science & practice with Kaggle
 
-:computer: Looking forward to change my field into Data Scientist in the future!
+:computer: Looking forward to changing my field to Automation Engineer in the future!
 
 &nbsp;
 
